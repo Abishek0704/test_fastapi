@@ -13,7 +13,7 @@ def liveness_check():
 def readiness_check():
     try:
         # Example: check DB or external service
-        # simulate success
+        
         dependency_ok = True
 
         if dependency_ok:
